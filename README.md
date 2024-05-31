@@ -1,6 +1,4 @@
-# Api-Education-Platforma
-# Video link [https://youtu.be/g7VzquSga_M](https://youtu.be/g7VzquSga_M)
-#Swagger link edu-api.tohirjon.uz/swagger/index.html
-#FullProject https://edu.tohirjon.uz/login
-#Admin email:admin@gmail.com password:Sardor0618!
-#User bemmalol register bo'lib kirorasiz
+# https://docs.google.com/document/d/1fK3Cg1YZNquKRW0YP-_fAKI3YYN4cC7LCVNylE5WYNc/edit?addon_store
+
+# Admin email:admin@gmail.com password:Sardor0618!
+# User bemmalol register bo'lib kirorasiz
